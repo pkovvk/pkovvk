@@ -11,9 +11,7 @@
 
 
 	
-## <img src="https://cdn-icons-png.flaticon.com/256/2115/2115962.png" style="height: 30px"> **Обо мне**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## <img src="https://steamuserimages-a.akamaihd.net/ugc/106231921934932381/FC911249AF53DE2049293151FC7DF0FB3AC8AA00/" style="height: 50px"> **Обо мне**
 
 <br>
 
@@ -27,7 +25,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://sun9-52.userapi.com/impg/ai_ICA1lXUr55tdyGJBAJ-OkJ2T1rk-zQyBE6g/DJr8gajZ_yI.jpg?size=510x521&quality=96&sign=539dd007c6ef6a0743f64eca9c0eb218&type=album" style="height: 50px"> **Навыки**
 <br>
 
 <p align="center">
