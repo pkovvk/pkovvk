@@ -11,21 +11,20 @@
 
 
 	
-## <img src="https://steamuserimages-a.akamaihd.net/ugc/106231921934932381/FC911249AF53DE2049293151FC7DF0FB3AC8AA00/" style="height: 50px"> **Обо мне**
+## <img src="https://steamuserimages-a.akamaihd.net/ugc/106231921934932381/FC911249AF53DE2049293151FC7DF0FB3AC8AA00/" style="height: 50px"> **Information**
 
 <br>
 
-- Начинающий Front-End разработчик
-- Раньше учил Back-End, есть понимание
+- Front-End Developer (+ Back-End раньше)
 - Опыт: Некомерческий опыт разработки ~ 1,5 года
 - Образование: Нет.
 - Работа: Нет.
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://sun9-52.userapi.com/impg/ai_ICA1lXUr55tdyGJBAJ-OkJ2T1rk-zQyBE6g/DJr8gajZ_yI.jpg?size=510x521&quality=96&sign=539dd007c6ef6a0743f64eca9c0eb218&type=album" style="height: 50px"> **Навыки**
+## <img src="https://sun9-52.userapi.com/impg/ai_ICA1lXUr55tdyGJBAJ-OkJ2T1rk-zQyBE6g/DJr8gajZ_yI.jpg?size=510x521&quality=96&sign=539dd007c6ef6a0743f64eca9c0eb218&type=album" style="height: 50px"> **Skills**
 <br>
 
 <p align="center">
