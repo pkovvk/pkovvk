@@ -2,12 +2,11 @@
 	<img src="https://i.pinimg.com/originals/b9/98/12/b998122f2c7ef8462a078fb6792ec411.gif" style="height: 150px">
 </p>
 
-
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/0/09/1320829362_preview_tumblr_ntz2zs43Hc1qidtgco4_540.png/revision/latest/scale-to-width-down/250?cb=20190304141316" style="height: 50px"> **Skills**
+## <img src="https://i.imgur.com/vvWbcXG.png" style="height: 80px">
 <br>
 
 <p align="center">
@@ -42,5 +41,6 @@
 <br>
 
 -----
+<img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/0/09/1320829362_preview_tumblr_ntz2zs43Hc1qidtgco4_540.png/revision/latest/scale-to-width-down/250?cb=20190304141316">
 
 <br>
