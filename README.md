@@ -42,6 +42,6 @@
 <br>
 
 -----
-<img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/0/09/1320829362_preview_tumblr_ntz2zs43Hc1qidtgco4_540.png/revision/latest/scale-to-width-down/250?cb=20190304141316">
+<img src="https://i.imgur.com/ocFvQPk.png">
 
 <br>
