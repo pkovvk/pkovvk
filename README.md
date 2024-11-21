@@ -1,8 +1,6 @@
 
-<h1 align="center"><b> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
 <p align="center">
-	<img src="https://media1.tenor.com/m/5oHeI8sET1oAAAAd/dota-hero.gif" style="height: 250px">
+	<img src="https://media1.tenor.com/m/5oHeI8sET1oAAAAd/dota-hero.gif" style="height: 150px">
 </p>
 
 
