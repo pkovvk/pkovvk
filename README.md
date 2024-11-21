@@ -5,20 +5,6 @@
 
 <br>
 
-
-
-	
-## <img src="https://avatanplus.com/files/resources/original/5ae30ae50108f16306e28e8c.png" style="height: 50px"> **Information**
-
-<br>
-
-- Front-End Developer (+ Back-End раньше)
-- Опыт: Некомерческий опыт разработки ~ 1,5 года
-- Образование: Нет.
-- Работа: Нет.
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/0/09/1320829362_preview_tumblr_ntz2zs43Hc1qidtgco4_540.png/revision/latest/scale-to-width-down/250?cb=20190304141316" style="height: 50px"> **Skills**
