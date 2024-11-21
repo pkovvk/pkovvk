@@ -1,4 +1,3 @@
--
 <p align="center">
 	<img src="https://i.pinimg.com/originals/b9/98/12/b998122f2c7ef8462a078fb6792ec411.gif" style="height: 150px">
 </p>
@@ -34,6 +33,13 @@
    ![SCSS](https://img.shields.io/badge/SCSS-purple?style=for-the-badge&logo=sass)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+<br>
+
+- **Фреймворки**:
+
+   ![React](https://img.shields.io/badge/React%20JS-blue?style=for-the-badge&logo=react&logoColor=white)
 
 
 <br>
